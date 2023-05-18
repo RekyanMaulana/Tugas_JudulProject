@@ -1,17 +1,3 @@
-Project 1
-1. Tema : Sistem Pendukung Keputusan
-2. Judul : Sistem Pendukung Keputusan untuk Pemilihan Guru dan Siswa Terbaik
-3. Skenario : 
-- User : Admin, Guru, dan Siswa
-- Admin menginputkan data daftar guru dan siswa. 
-- Guru menginputkan data nilai akademik dan non akademik milik para siswa, sistem akan menentukkan siswa terbaik. 
-- Siswa melakukkan penilaian terhadap guru sesuai dengan kriteria yang disediakan oleh sistem, sistem akan menentukkan guru terbaik.
-4. Fitur :
-- Fitur Daftar/Login Akun Admin, Guru, dan Siswa
-- Fitur CRUD Guru dan Siswa
-- Halaman untuk melihat Guru dan Siswa Terbaik
-
-Project 2
 1. Nama Aplikasi : E-Kantin
 2. Tema : penyedia jasa
 3. Skenario :
